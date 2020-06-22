@@ -1,0 +1,7 @@
+<aura:component>
+	  
+    <c:testLightningHeading/>
+	    
+    <p>Hello Lightning!</p>
+	    
+</aura:component>
